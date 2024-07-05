@@ -6,16 +6,16 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Insira o enunciado da Pergunta 1",
-        alternativas: ["Alternativa 1", "Alternativa 2"],
+        enunciado: "É verdadeiro que o ciclo de o plantio da soja é de 120 dias?",
+        alternativas: ["Verdadeiro", "Falso"],
     },
     {
-        enunciado: "Insira o enunciado da Pergunta 2",
-        alternativas: ["Alternativa 1", "Alternativa 2"],
+        enunciado: "Em qual mês planta e colhe soja no Sul do Brasil?",
+        alternativas: ["Setembro a janeiro", "Outubro a Dezembro"],
     },
     {
-        enunciado: "Insira o enunciado da Pergunta 3",
-        alternativas: ["Alternativa 1", "Alternativa 2"],
+        enunciado: " Qual é a quantidade de proteína de soja que deve ser consumida diariamente para ajudar a diminuir o colesterol?",
+        alternativas: ["25g", "15g"],
     },
 ];
 
